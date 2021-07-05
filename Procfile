@@ -1,1 +1,1 @@
-web: gunicorn icoder.wsgi:apllication --log-file -
+web: gunicorn icoder.wsgi --log-file
