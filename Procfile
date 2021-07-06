@@ -1,1 +1,1 @@
-web: gunicorn icoder.wsgi --log-file
+web: gunicorn interBlog.wsgi --log-file
